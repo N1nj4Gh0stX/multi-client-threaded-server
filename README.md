@@ -47,4 +47,4 @@ make
 
 ##Notes
 - Designed to emphasize concurrency, synchronization, and robust error handling.
-- Detailed protocol description, command set, and design rationale are available in the design.md file.
+- Detailed protocol description, command set, and design rationale are available in the docs/ directory.
