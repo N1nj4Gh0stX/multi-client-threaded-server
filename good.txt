@@ -1,0 +1,22 @@
+# good.txt — successful commands
+
+# Get an existing Pokémon (assuming ID 25 exists)
+get pokemon 25
+
+# Get all trainers (should list trainers if any exist)
+get trainer
+
+# Add a new trainer with valid Pokémon IDs
+post trainer Ash 1 4 7
+
+# Get trainer by ID (the one we just added)
+get trainer 1
+
+# Update trainer 1 with a new Pokémon team
+put trainer 1 1 2 3 4 5 6
+
+# Delete trainer 1 (valid delete)
+delete trainer 1
+
+# Graceful exit
+exit

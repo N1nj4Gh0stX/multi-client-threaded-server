@@ -1,0 +1,132 @@
+[2025-12-08 19:26:31] Client 127.0.0.1:41478 issued command: get pokemon 1
+[2025-12-08 19:26:51] Client 127.0.0.1:41478 issued command: get trainer
+[2025-12-08 19:26:56] Client 127.0.0.1:41478 issued command: get trainer
+[2025-12-08 19:31:40] Client 127.0.0.1:51742 issued command: get pokemon 1
+[2025-12-08 19:32:02] Client 127.0.0.1:51742 issued command: get log 10
+[2025-12-08 19:36:24] Client 127.0.0.1:47900 issued command: get pokemon 1
+[2025-12-08 19:36:35] Client 127.0.0.1:47900 issued command: get trainer
+[2025-12-08 19:39:36] Client 127.0.0.1:50330 issued command: get pokemon 1
+[2025-12-08 19:39:48] Client 127.0.0.1:50330 issued command: get trainer
+[2025-12-08 19:39:54] Client 127.0.0.1:50330 issued command: get log 10
+[2025-12-08 19:40:06] Client 127.0.0.1:50330 issued command: get trainer 1
+[2025-12-08 19:40:21] Client 127.0.0.1:50330 issued command: exit
+[2025-12-08 19:44:09] Client 127.0.0.1:59316 issued command: get pokemon 25
+[2025-12-08 19:44:09] Client 127.0.0.1:59316 issued command: get trainer
+[2025-12-08 19:44:09] Client 127.0.0.1:59316 issued command: post trainer Ash 1 4 7
+[2025-12-08 19:44:09] Client 127.0.0.1:59316 issued command: get trainer 1
+[2025-12-08 19:44:09] Client 127.0.0.1:59316 issued command: put trainer 1 1 2 3 4 5 6
+[2025-12-08 19:44:09] Client 127.0.0.1:59316 issued command: delete trainer 1
+[2025-12-08 19:44:09] Client 127.0.0.1:59316 issued command: exit
+[2025-12-08 19:45:08] Client 127.0.0.1:37510 issued command: get pokemon 9999
+[2025-12-08 19:45:08] Client 127.0.0.1:37510 issued command: get trainer 999
+[2025-12-08 19:45:08] Client 127.0.0.1:37510 issued command: get pokemon
+[2025-12-08 19:45:08] Client 127.0.0.1:37510 issued command: post trainer Brock 1 2 3 4 5 6 7 8 9
+[2025-12-08 19:45:08] Client 127.0.0.1:37510 issued command: put trainer 999 1 2 3
+[2025-12-08 19:45:08] Client 127.0.0.1:37510 issued command: delete trainer 999
+[2025-12-08 19:45:08] Client 127.0.0.1:37510 issued command: launch missile
+[2025-12-08 19:45:08] Client 127.0.0.1:37510 issued command: exit
+[2025-12-08 19:55:59] Client 127.0.0.1:36170 issued command: get pokemon 25
+[2025-12-08 19:55:59] Client 127.0.0.1:36170 issued command: get trainer
+[2025-12-08 19:55:59] Client 127.0.0.1:36170 issued command: post trainer Ash 1 4 7
+[2025-12-08 19:55:59] Client 127.0.0.1:36170 issued command: get trainer 1
+[2025-12-08 19:55:59] Client 127.0.0.1:36170 issued command: put trainer 1 1 2 3 4 5 6
+[2025-12-08 19:55:59] Client 127.0.0.1:36170 issued command: delete trainer 1
+[2025-12-08 19:55:59] Client 127.0.0.1:36170 issued command: exit
+[2025-12-08 19:58:25] Client 127.0.0.1:45932 issued command: get pokemon 25
+[2025-12-08 19:58:25] Client 127.0.0.1:45932 issued command: get trainer
+[2025-12-08 19:58:25] Client 127.0.0.1:45932 issued command: post trainer Ash 1 4 7
+[2025-12-08 19:58:25] Client 127.0.0.1:45932 issued command: get trainer 1
+[2025-12-08 19:58:25] Client 127.0.0.1:45932 issued command: put trainer 1 1 2 3 4 5 6
+[2025-12-08 19:58:25] Client 127.0.0.1:45932 issued command: delete trainer 1
+[2025-12-08 19:58:25] Client 127.0.0.1:45932 issued command: exit
+[2025-12-08 20:01:10] Client 127.0.0.1:40896 issued command: get pokemon 25
+[2025-12-08 20:01:10] Client 127.0.0.1:40896 issued command: get trainer
+[2025-12-08 20:01:10] Client 127.0.0.1:40896 issued command: post trainer Ash 1 4 7
+[2025-12-08 20:01:10] Client 127.0.0.1:40896 issued command: get trainer 1
+[2025-12-08 20:01:10] Client 127.0.0.1:40896 issued command: put trainer 1 1 2 3 4 5 6
+[2025-12-08 20:01:10] Client 127.0.0.1:40896 issued command: delete trainer 1
+[2025-12-08 20:01:10] Client 127.0.0.1:40896 issued command: exit
+[2025-12-08 20:01:35] Client 127.0.0.1:47238 issued command: remove trainer
+[2025-12-08 20:01:48] Client 127.0.0.1:47238 issued command: remove trainer 1 2 3 4 5
+[2025-12-08 20:02:09] Client 127.0.0.1:47238 issued command: remove trainer 1
+[2025-12-08 20:03:06] Client 127.0.0.1:47238 issued command: delete trainer 1 2 3 4 5
+[2025-12-08 20:03:12] Client 127.0.0.1:47238 issued command: get trainer
+[2025-12-08 20:03:22] Client 127.0.0.1:47238 issued command:  delete trainer 2 3 4 5 6
+[2025-12-08 20:03:30] Client 127.0.0.1:47238 issued command: delete trainer 2
+[2025-12-08 20:03:43] Client 127.0.0.1:47238 issued command: delte trainer 3
+[2025-12-08 20:03:43] Client 127.0.0.1:47238 issued command: [D[D[D
+[2025-12-08 20:03:53] Client 127.0.0.1:47238 issued command: delete trainer 3
+[2025-12-08 20:04:03] Client 127.0.0.1:47238 issued command: delete trainer 4
+[2025-12-08 20:04:15] Client 127.0.0.1:47238 issued command: delete trainer 5
+[2025-12-08 20:04:23] Client 127.0.0.1:47238 issued command: delete trainer 6
+[2025-12-08 20:04:29] Client 127.0.0.1:47238 issued command: get trainer
+[2025-12-08 20:04:41] Client 127.0.0.1:51398 issued command: exit
+[2025-12-08 20:08:48] Client 127.0.0.1:53080 issued command: exit
+[2025-12-08 20:10:06] Client 127.0.0.1:45240 issued command: exit
+[2025-12-08 20:12:23] Client 127.0.0.1:48006 issued command: exit
+[2025-12-08 20:12:52] Client 127.0.0.1:50666 issued command: log 10
+[2025-12-08 20:14:09] Client 127.0.0.1:50666 issued command: exit
+[2025-12-08 20:15:37] Client 127.0.0.1:39634 issued command: exit
+[2025-12-08 20:15:45] Client 127.0.0.1:42892 issued command: get pokemon 25
+[2025-12-08 20:15:45] Client 127.0.0.1:42892 issued command: get trainer
+[2025-12-08 20:15:45] Client 127.0.0.1:42892 issued command: post trainer Ash 1 4 7
+[2025-12-08 20:15:45] Client 127.0.0.1:42892 issued command: get trainer 1
+[2025-12-08 20:15:45] Client 127.0.0.1:42892 issued command: put trainer 1 1 2 3 4 5 6
+[2025-12-08 20:15:45] Client 127.0.0.1:42892 issued command: delete trainer 1
+[2025-12-08 20:15:45] Client 127.0.0.1:42892 issued command: exit
+[2025-12-08 20:16:14] Client 127.0.0.1:44208 issued command: get pokemon 9999
+[2025-12-08 20:16:14] Client 127.0.0.1:44208 issued command: get trainer 999
+[2025-12-08 20:16:14] Client 127.0.0.1:44208 issued command: get pokemon
+[2025-12-08 20:16:14] Client 127.0.0.1:44208 issued command: post trainer Brock 1 2 3 4 5 6 7 8 9
+[2025-12-08 20:16:14] Client 127.0.0.1:44208 issued command: put trainer 999 1 2 3
+[2025-12-08 20:16:14] Client 127.0.0.1:44208 issued command: delete trainer 999
+[2025-12-08 20:16:14] Client 127.0.0.1:44208 issued command: launch missile
+[2025-12-08 20:16:14] Client 127.0.0.1:44208 issued command: exit
+[2025-12-08 20:19:11] Client 127.0.0.1:50620 issued command: exit
+[2025-12-08 20:20:11] Client 127.0.0.1:46544 issued command: get pokemon 25
+[2025-12-08 20:20:11] Client 127.0.0.1:46544 issued command: get trainer
+[2025-12-08 20:20:11] Client 127.0.0.1:46544 issued command: post trainer Ash 1 4 7
+[2025-12-08 20:20:11] Client 127.0.0.1:46544 issued command: get trainer 1
+[2025-12-08 20:20:11] Client 127.0.0.1:46544 issued command: put trainer 1 1 2 3 4 5 6
+[2025-12-08 20:20:11] Client 127.0.0.1:46544 issued command: delete trainer 1
+[2025-12-08 20:20:11] Client 127.0.0.1:46544 issued command: exit
+[2025-12-08 20:20:13] Client 127.0.0.1:46552 issued command: get pokemon 9999
+[2025-12-08 20:20:13] Client 127.0.0.1:46552 issued command: get trainer 999
+[2025-12-08 20:20:13] Client 127.0.0.1:46552 issued command: get pokemon
+[2025-12-08 20:20:13] Client 127.0.0.1:46552 issued command: post trainer Brock 1 2 3 4 5 6 7 8 9
+[2025-12-08 20:20:13] Client 127.0.0.1:46552 issued command: put trainer 999 1 2 3
+[2025-12-08 20:20:13] Client 127.0.0.1:46552 issued command: delete trainer 999
+[2025-12-08 20:20:13] Client 127.0.0.1:46552 issued command: launch missile
+[2025-12-08 20:20:13] Client 127.0.0.1:46552 issued command: exit
+[2025-12-08 20:36:18] Client 127.0.0.1:39820 issued command: get pokemon 25
+[2025-12-08 20:36:18] Client 127.0.0.1:39820 issued command: get trainer
+[2025-12-08 20:36:18] Client 127.0.0.1:39820 issued command: post trainer Ash 1 4 7
+[2025-12-08 20:36:18] Client 127.0.0.1:39820 issued command: get trainer 1
+[2025-12-08 20:36:18] Client 127.0.0.1:39820 issued command: put trainer 1 1 2 3 4 5 6
+[2025-12-08 20:36:18] Client 127.0.0.1:39820 issued command: delete trainer 1
+[2025-12-08 20:36:18] Client 127.0.0.1:39820 issued command: exit
+[2025-12-08 20:36:21] Client 127.0.0.1:39274 issued command: get pokemon 9999
+[2025-12-08 20:36:21] Client 127.0.0.1:39274 issued command: get trainer 999
+[2025-12-08 20:36:21] Client 127.0.0.1:39274 issued command: get pokemon
+[2025-12-08 20:36:21] Client 127.0.0.1:39274 issued command: post trainer Brock 1 2 3 4 5 6 7 8 9
+[2025-12-08 20:36:21] Client 127.0.0.1:39274 issued command: put trainer 999 1 2 3
+[2025-12-08 20:36:21] Client 127.0.0.1:39274 issued command: delete trainer 999
+[2025-12-08 20:36:21] Client 127.0.0.1:39274 issued command: launch missile
+[2025-12-08 20:36:22] Client 127.0.0.1:39274 issued command: exit
+[2025-12-08 20:36:43] Client 127.0.0.1:44208 issued command: get pokemon 25
+[2025-12-08 20:36:43] Client 127.0.0.1:44208 issued command: get trainer
+[2025-12-08 20:36:43] Client 127.0.0.1:44208 issued command: post trainer Ash 1 4 7
+[2025-12-08 20:36:43] Client 127.0.0.1:44208 issued command: get trainer 1
+[2025-12-08 20:36:43] Client 127.0.0.1:44208 issued command: put trainer 1 1 2 3 4 5 6
+[2025-12-08 20:36:43] Client 127.0.0.1:44208 issued command: delete trainer 1
+[2025-12-08 20:36:43] Client 127.0.0.1:44208 issued command: exit
+[2025-12-08 20:36:48] Client 127.0.0.1:39902 issued command: get pokemon 9999
+[2025-12-08 20:36:48] Client 127.0.0.1:39902 issued command: get trainer 999
+[2025-12-08 20:36:48] Client 127.0.0.1:39902 issued command: get pokemon
+[2025-12-08 20:36:48] Client 127.0.0.1:39902 issued command: post trainer Brock 1 2 3 4 5 6 7 8 9
+[2025-12-08 20:36:48] Client 127.0.0.1:39902 issued command: put trainer 999 1 2 3
+[2025-12-08 20:36:48] Client 127.0.0.1:39902 issued command: delete trainer 999
+[2025-12-08 20:36:48] Client 127.0.0.1:39902 issued command: launch missile
+[2025-12-08 20:36:48] Client 127.0.0.1:39902 issued command: exit
+[2025-12-08 20:37:00] Client 127.0.0.1:39910 issued command: exit
+[2025-12-08 21:17:05] Client 127.0.0.1:51144 issued command: get pokemon 9999
